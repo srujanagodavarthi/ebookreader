@@ -1,0 +1,53 @@
+The C Programming Language
+
+The C Programming Language is a well-known programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed ... 
+
+Published: 1978
+
+Authors: Brian Kernighan, Dennis Ritchie
+
+Original language: English
+No.of pages:10
+
+
+
+
+Bibliographic information
+
+
+Title:	DBMS – Complete Practical Approach
+
+Authors: Sharad Maheshwari, Ruchin Jain
+
+Publisher: Firewall Media, 2005
+
+ISBN	8170087147, 9788170087144
+
+Length	536 pages
+
+O'Reilly Media, Inc., 2005 - Computers - 1224 pages
+
+With more than 700,000 copies sold to date, Java in a Nutshell from O'Reilly is clearly the favorite resource amongst the legion of developers and programmers using Java technology. And now, with the release of the 5.0 version of Java, O'Reilly has given the book that defined the "in a Nutshell" category another impressive tune-up.
+
+Author	David Flanagan
+Edition	5, illustrated
+Publisher :	O'Reilly Media, Inc., 2005
+ISBN	  :     0596007736, 9780596007737
+Length	  :     1224 pages
+Subjects  :	Computers › Programming › General
+
+
+Springer, 02-Nov-2006 - 
+
+Computers - 440 pages
+
+Computer software reliability has never been so important. Computers are used in areas as diverse as air traffic control, nuclear reactors, real-time military, industrial process control, security system control, biometric scan-systems, automotive, mechanical and safety control, and hospital patient monitoring systems. Many of these applications require critical functionality as software applications increase in size and complexity. This book is an introduction to software reliability engineering and a survey of the state-of-the-art techniques, methodologies and tools used to assess the reliability of software and combined software-hardware systems. Current research results are reported and future directions are signposted. This text will interest: graduate students as a course textbook introducing reliability engineering software; reliability engineers as a broad, up-to-date survey of the field; and researchers and lecturers in universities and research institutions as a one-volume reference.
+
+Bibliographic information
+
+
+Title	Web Technologies
+Author	A.A.Puntambekar
+Publisher	Technical Publications, 2009
+ISBN	8184316674, 9788184316674
+Length	612 pages
